@@ -63,13 +63,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" />
 <!-- Add more badges as desired -->
 
