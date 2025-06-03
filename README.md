@@ -31,9 +31,6 @@
 
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <span style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg width="50" height="50" />
-  </span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" />
