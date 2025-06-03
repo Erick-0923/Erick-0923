@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm John Doe
 
-<!--
-**Erick-0923/Erick-0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building clean and scalable software.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React, Vue, Tailwind CSS
+- Backend: Node.js, .NET, PostgreSQL
+- DevOps: AWS, Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🚀 [GreenLinks App](https://yourprojectlink.com) – GPS-powered golf challenge app
+- 🏭 [Secur.Space](https://yourprojectlink.com) – Short-term truck storage marketplace
+
+## 📝 Blog
+I post about development, startups, and digital products:
+- [How I built my first SaaS MVP](https://yourbloglink.com)
+- [Top tools I use for rapid prototyping](https://yourbloglink.com)
+
+## 📫 Let's connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourwebsite.com)
