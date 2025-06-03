@@ -32,7 +32,7 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
   <span style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="50" height="50" />
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg width="50" height="50" />
   </span>
   <span style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="50" height="50" />
